@@ -1,8 +1,8 @@
 """A pulse fitting model"""
 import copy
 import numpy as np
-import rffthelper_pulsemodel as pmd
-import rffthelper_pulsedispersion as pdp
+import lasertools_pulsemodel as pmd
+import lasertools_pulsedispersion as pdp
 from .base import _ModelBase
 
 
